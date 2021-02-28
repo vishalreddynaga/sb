@@ -6,7 +6,7 @@ namespace w
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellohgkgkjg^^^^^^jgkgbjkl^^^^^^^orld!");
+            Console.WriteLine("Hellohgkgkjg^^^^6666^^jgkgbjkl^^^^^^^orld!");
         }
     }
 }
